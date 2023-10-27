@@ -1,4 +1,4 @@
-# chutes-ladder
+# chutes-ladder.
 04-01-2023
 #run this cell to clear R's brain.
 rm(list=ls())
